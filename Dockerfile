@@ -1,3 +1,3 @@
 FROM devopsedu/webapp
-COPY ./webapp /var/www/html/
+COPY ./website /var/www/html/
 EXPOSE 80
